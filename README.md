@@ -4,7 +4,7 @@ Job : PM, Programmer (AI - CV, NLP, GEN , WEB, Mobile, Design of Algorithm etc
 <br>
 Country: Republic of Korea <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/60617686/265649923-97fd0a6b-fb91-4bc1-8e3a-d3e95c84b8bf.png"  width="20" height="14"/>
 <br>
-Resume : https://www.notion.so/7d8854b8f73543cb87766d5241f5f2d0
+Resume : https://www.notion.so/7d8854b8f73543cb87766d5241f5f2d0?pvs=4
 <br>
 </h3>
 <br>
