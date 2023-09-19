@@ -1,8 +1,6 @@
 <h3>Name : LEON
 <br>
-(주)고퍼소프트 CTO - 부산광역시 해운대구 센텀중앙로 78 3F 303
-<br>
-Job : PM, Programmer (AI - CV, NLP, GEN , WEB, Mobile, Design of Algorithm etc
+Job : (주)고퍼소프트 CTO - PM, Programmer (AI - CV, NLP, GEN , WEB, Mobile, Design of Algorithm etc
 <br>
 Country: Republic of Korea <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/60617686/265649923-97fd0a6b-fb91-4bc1-8e3a-d3e95c84b8bf.png"  width="20" height="14"/>
 <br>
