@@ -6,6 +6,9 @@ Country: Republic of Korea <img src="https://github-production-user-asset-6210df
 <br>
 Resume : https://www.notion.so/7d8854b8f73543cb87766d5241f5f2d0?pvs=4
 <br>
+Gopher : gophersoft.co.kr
+<br>
+<br>
 </h3>
 <br>
 
