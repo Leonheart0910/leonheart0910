@@ -1,19 +1,4 @@
-<h3>Name : LEON
-<br>
-Job : (주)고퍼소프트 CTO - PM, Programmer (AI - CV, NLP, GEN , WEB, Mobile, Design of Algorithm etc
-<br>
-Country: Republic of Korea <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/60617686/265649923-97fd0a6b-fb91-4bc1-8e3a-d3e95c84b8bf.png"  width="20" height="14"/>
-<br>
-Resume : https://www.notion.so/7d8854b8f73543cb87766d5241f5f2d0?pvs=4
-<br>
-Gopher : https://www.gophersoft.co.kr
-<br>
-<br>
-</h3>
-<br>
 
-![leonheart0910's github stats](https://github-readme-stats.vercel.app/api?username=leonheart0910&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonheart0910&layout=compact&theme=default)
 <div align=left><h1>📚 STACKS</h1></div>
 
 <div align=left> 
